@@ -17,5 +17,4 @@ public class CategoriesModel {
     private String id;
     private String name;
     private String subCategory;  
-    private String coso;
 }
